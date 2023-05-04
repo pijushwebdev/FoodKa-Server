@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/Xp0fvH8/chef1.jpg",
+        "name": "Michael Johnson",
+        "experience": 12,
+        "recipes": 67,
+        "likes": 154,
+        "bio": "Michael Johnson is a classically trained chef with a passion for creating innovative, modern dishes that showcase the best of local, seasonal ingredients. He began his culinary career at a young age, working in kitchens across the country before settling in New York City, where he now runs his own restaurant.",
+        "recipe_id": 1001
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/d62tyPB/chef2.jpg",
+        "name": "Maria Rodriguez",
+        "experience": 8,
+        "recipes": 42,
+        "likes": 98,
+        "bio": "Maria Rodriguez is a self-taught chef who learned to cook from her grandmother at a young age. Her passion for bold flavors and rustic, home-style cooking has earned her a devoted following, and she is now the owner and head chef of one of the most popular restaurants in her city.",
+        "recipe_id": 1002
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/hVQ06HS/chef3.jpg",
+        "name": "James Lee",
+        "experience": 15,
+        "recipes": 82,
+        "likes": 205,
+        "bio": "James Lee is a Korean-American chef who has made a name for himself by fusing the flavors of his heritage with modern cooking techniques. He has worked in some of the world's top restaurants and has won numerous awards for his innovative cuisine.",
+        "recipe_id": 1003
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/CJwHpqC/chef4.jpg",
+        "name": "Rachel Patel",
+        "experience": 10,
+        "recipes": 53,
+        "likes": 121,
+        "bio": "Rachel Patel is a Michelin-starred chef known for her elegant, refined cooking style. She has trained under some of the most respected chefs in the world and has worked in some of the top kitchens in Europe and Asia before opening her own restaurant in the United States.",
+        "recipe_id": 1004
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/HKZBjLy/chef5.jpg",
+        "name": "David Chen",
+        "experience": 7,
+        "recipes": 34,
+        "likes": 78,
+        "bio": "David Chen is a rising star in the culinary world, known for his playful, inventive approach to cooking. He honed his skills working in some of the most cutting-edge restaurants in the world before striking out on his own and opening his own restaurant.",
+        "recipe_id": 1005
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/h2G9MVT/chef6.jpg",
+        "name": "Sarah Kim",
+        "experience": 9,
+        "recipes": 47,
+        "likes": 104,
+        "bio": "Sarah Kim is a chef who specializes in creating plant-based dishes that are both delicious and nutritious. She has a degree in nutrition and dietetics and has worked in some of the top health-focused restaurants in the world before opening her own restaurant, which has become a destination for health-conscious foodies.",
+        "recipe_id": 1006
+    }
+]

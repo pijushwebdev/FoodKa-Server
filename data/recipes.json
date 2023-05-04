@@ -1,0 +1,272 @@
+[
+    {
+        "recipe_id": "1001",
+        "unique_id": 11,
+        "favorite" : false,
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+            "spaghetti",
+            "bacon",
+            "eggs",
+            "parmesan cheese",
+            "black pepper"
+        ],
+        "cooking_method": "Boil the spaghetti and fry the bacon. Mix eggs, parmesan cheese, and black pepper in a separate bowl. Drain the spaghetti and add it to the pan with the bacon. Remove from heat and add the egg mixture, stirring constantly.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "1001",
+        "unique_id": 12,
+        "favorite" : false,
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+            "beef tenderloin",
+            "onions",
+            "mushrooms",
+            "sour cream",
+            "beef broth"
+        ],
+        "cooking_method": "Sear the beef in a pan, then remove and set aside. In the same pan, cook the onions and mushrooms until tender. Add beef broth and bring to a boil. Reduce heat and add sour cream and the beef. Cook until heated through.",
+        "rating": 4.2
+    },
+    {
+        "recipe_id": "1001",
+        "unique_id": 13,
+        "favorite" : false,
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+            "chicken breasts",
+            "breadcrumbs",
+            "parmesan cheese",
+            "marinara sauce",
+            "mozzarella cheese"
+        ],
+        "cooking_method": "Coat the chicken breasts in breadcrumbs and parmesan cheese. Fry until golden brown. Top with marinara sauce and mozzarella cheese. Bake in the oven until the cheese is melted and bubbly.",
+        "rating": 4.7
+    },
+    {
+        "recipe_id": "1002",
+        "unique_id": 14,
+        "favorite" : true,
+        "recipe_name": "Beef and Broccoli Stir-Fry",
+        "ingredients": [
+            "beef sirloin",
+            "broccoli",
+            "soy sauce",
+            "garlic",
+            "cornstarch"
+        ],
+        "cooking_method": "Slice the beef and broccoli into bite-sized pieces. Heat oil in a pan and cook garlic until fragrant. Add the beef and cook until browned. Add the broccoli and cook until tender. Mix soy sauce and cornstarch in a separate bowl, then add to the pan. Cook until the sauce thickens.",
+        "rating": 4.3
+    },
+    {
+        "recipe_id": "1002",
+        "unique_id": 15,
+        "favorite" : false,
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+            "shrimp",
+            "butter",
+            "garlic",
+            "lemon juice",
+            "white wine"
+        ],
+        "cooking_method": "Melt butter in a pan and cook garlic until fragrant. Add shrimp and cook until pink. Add lemon juice and white wine, and cook until heated through.",
+        "rating": 4.6
+    },
+    {
+        "recipe_id": "1002",
+        "unique_id": 16,
+        "favorite" : true,
+        "recipe_name": "Grilled Salmon",
+        "ingredients": [
+            "salmon fillets",
+            "olive oil",
+            "lemon",
+            "salt",
+            "pepper"
+        ],
+        "cooking_method": "Brush salmon fillets with olive oil and season with salt and pepper. Grill for about 5 minutes on each side or until cooked to your liking. Squeeze fresh lemon juice over the top before serving.",
+        "rating": 4.8
+    },
+    {
+        "recipe_id": "1003",
+        "unique_id": 17,
+        "favorite" : false,
+        "recipe_name": "Beef Chili",
+        "ingredients": [
+            "ground beef",
+            "onions",
+            "kidney beans",
+            "tomatoes",
+            "chili powder"
+        ],
+        "cooking_method": "Brown the beef and onions in a pan. Add chili powder and cook until fragrant. Add kidney beans and tomatoes. Bring to a boil, then reduce heat and simmer for at least 30 minutes.",
+        "rating": 4.4
+    },
+    {
+        "recipe_id": "1003",
+        "unique_id": 18,
+        "favorite" : true,
+        "recipe_name": "Chicken Fajitas",
+        "ingredients": [
+            "chicken breasts",
+            "bell peppers",
+            "onions",
+            "tortillas",
+            "sour cream"
+        ],
+        "cooking_method": "Slice the chicken, bell peppers, and onions into thin strips. Heat oil in a pan and cook the chicken until browned. Add the vegetables and cook until tender. Serve on warm tortillas with sour cream.",
+        "rating": 4.1
+    },
+    {
+        "recipe_id": "1003",
+        "unique_id": 19,
+        "favorite" : false,
+        "recipe_name": "Pesto Pasta",
+        "ingredients": [
+            "pasta",
+            "basil",
+            "garlic",
+            "parmesan cheese",
+            "pine nuts"
+        ],
+        "cooking_method": "Cook the pasta according to package instructions. In a food processor, combine basil, garlic, parmesan cheese, and pine nuts. Process until smooth. Drain the pasta and mix with the pesto sauce.",
+        "rating": 4.9
+    },
+    {
+        "recipe_id": "1004",
+        "unique_id": 20,
+        "favorite" : false,
+        "recipe_name": "Lamb Chops",
+        "ingredients": [
+            "lamb chops",
+            "olive oil",
+            "rosemary",
+            "garlic",
+            "salt"
+        ],
+        "cooking_method": "Rub lamb chops with olive oil, garlic, and rosemary. Season with salt. Grill for 3-4 minutes on each side or until cooked to your liking.",
+        "rating": 4.7
+    },
+    {
+        "recipe_id": "1004",
+        "unique_id": 21,
+        "favorite" : true,
+        "recipe_name": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+            "chicken breasts",
+            "spinach",
+            "feta cheese",
+            "garlic",
+            "olive oil"
+        ],
+        "cooking_method": "Pound the chicken breasts until thin. In a separate bowl, mix spinach, feta cheese, garlic, and olive oil. Spread the mixture onto the chicken breasts, then roll them up and secure with toothpicks. Bake in the oven until cooked through.",
+        "rating": 4.5
+    },
+    {
+        "recipe_id": "1004",
+        "unique_id": 22,
+        "favorite" : false,
+        "recipe_name": "Pork Tenderloin",
+        "ingredients": [
+            "pork tenderloin",
+            "soy sauce",
+            "honey",
+            "garlic",
+            "ginger"
+        ],
+        "cooking_method": "Mix soy sauce, honey, garlic, and ginger in a bowl. Rub the mixture onto the pork tenderloin. Grill for 20-25 minutes or until cooked through.",
+        "rating": 4.3
+    },
+    {
+        "recipe_id": "1005",
+        "unique_id": 23,
+        "favorite" : false,
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+            "shrimp",
+            "garlic",
+            "butter",
+            "lemon",
+            "white wine"
+        ],
+        "cooking_method": "Melt butter in a pan. Add garlic and cook until fragrant. Add shrimp and cook until pink. Add white wine and lemon juice. Simmer for a few minutes until the sauce has thickened.",
+        "rating": 4.6
+    },
+    {
+        "recipe_id": "1005",
+        "unique_id": 24,
+        "favorite" : false,
+        "recipe_name": "Vegetable Stir-Fry",
+        "ingredients": [
+            "broccoli",
+            "carrots",
+            "bell peppers",
+            "onions",
+            "soy sauce"
+        ],
+        "cooking_method": "Slice the vegetables into thin strips. Heat oil in a pan and stir-fry the vegetables until tender. Add soy sauce and cook for another minute.",
+        "rating": 4.2
+    },
+    {
+        "recipe_id": "1005",
+        "unique_id": 25,
+        "favorite" : false,
+        "recipe_name": "Beef Stroganoff",
+        "ingredients": [
+            "beef sirloin",
+            "onions",
+            "mushrooms",
+            "sour cream",
+            "egg noodles"
+        ],
+        "cooking_method": "Slice the beef into thin strips. Cook the egg noodles according to package instructions. Brown the beef, onions, and mushrooms in a pan. Add sour cream and heat until bubbly. Serve over the cooked egg noodles.",
+        "rating": 4.0
+    },
+    {
+        "recipe_id": "1006",
+        "unique_id": 26,
+        "favorite" : false,
+        "recipe_name": "Tomato Soup",
+        "ingredients": [
+            "tomatoes",
+            "onions",
+            "garlic",
+            "cream",
+            "basil"
+        ],
+        "cooking_method": "Dice the tomatoes, onions, and garlic. Cook in a pot until tender. Use an immersion blender to blend the mixture until smooth. Add cream and basil. Heat until warmed through.",
+        "rating": 4.3
+    },
+    {
+        "recipe_id": "1006",
+        "unique_id": 27,
+        "favorite" : false,
+        "recipe_name": "Honey Mustard Salmon",
+        "ingredients": [
+            "salmon fillets",
+            "honey",
+            "dijon mustard",
+            "soy sauce",
+            "garlic"
+        ],
+        "cooking_method": "Mix honey, dijon mustard, soy sauce, and garlic in a bowl. Brush onto salmon fillets. Bake in the oven until cooked through.",
+        "rating": 4.7
+    },
+    {
+        "recipe_id": "1006",
+        "unique_id": 28,
+        "favorite" : true,
+        "recipe_name": "Pulled Pork",
+        "ingredients": [
+            "pork shoulder",
+            "bbq sauce",
+            "brown sugar",
+            "apple cider vinegar",
+            "garlic"
+        ],
+        "cooking_method": "Rub pork shoulder with brown sugar and garlic. Place in a slow cooker. Mix bbq sauce and apple cider vinegar in a bowl. Pour over the pork shoulder. Cook on low for 8 hours. Shred the pork with two forks.",
+        "rating": 4.5
+    }
+]

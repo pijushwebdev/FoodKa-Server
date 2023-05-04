@@ -9,6 +9,9 @@ app.use(cors())
 
 const allchefs = require('./data/allchefs.json');
 
+const recipes = require('./data/recipes.json');
+
+
 
 app.get('/', (req,res) => {
     res.send("starting chef")
@@ -16,6 +19,10 @@ app.get('/', (req,res) => {
 
 app.get('/allchefs', (req,res) => {
     res.send(allchefs)
+})
+
+app.get('/recipes', (req, res) => {
+    res.send(recipes)
 })
 
 app.listen(port, () => {
